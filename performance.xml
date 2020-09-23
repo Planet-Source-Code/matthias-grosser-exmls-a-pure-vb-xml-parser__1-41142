@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created by eXMLs -->
+<existance created="01.09.2002 19:40:58">
+  <universe ID="thisone" created="01.09.2002 19:40:58">
+    <cmd ID="first">lights on!</cmd>
+    <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+      <!--far too cold outta here-->
+      <lifeforms/>
+    </planet>
+    <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+      <lifeforms>
+        <fish ID="dolphin" value="flipper"/>
+        <!--you think dolphin isn't a fish? well... that's your problem!-->
+        <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+        <plant ID="tree" color="green" intelligence="0"/>
+        <plant ID="salad" color="green too" intelligence="-25"/>
+        <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+        <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+        <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+      </lifeforms>
+    </planet>
+  </universe>
+  <universe ID="parallel">
+    <!-- add any intelligent life forms here ;-) -->
+  </universe>
+  <universe ID="inverse">
+    <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+    <lie ID="another" value="false">and that&apos;s the truth!</lie>
+  </universe>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+    </existance>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+  </existance>
+  <existance created="01.09.2002 19:40:58">
+    <universe ID="thisone" created="01.09.2002 19:40:58">
+      <cmd ID="first">lights on!</cmd>
+      <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+        <!--far too cold outta here-->
+        <lifeforms/>
+      </planet>
+      <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+        <lifeforms>
+          <fish ID="dolphin" value="flipper"/>
+          <!--you think dolphin isn't a fish? well... that's your problem!-->
+          <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+          <plant ID="tree" color="green" intelligence="0"/>
+          <plant ID="salad" color="green too" intelligence="-25"/>
+          <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+          <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+          <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+        </lifeforms>
+      </planet>
+    </universe>
+    <universe ID="parallel">
+      <!-- add any intelligent life forms here ;-) -->
+    </universe>
+    <universe ID="inverse">
+      <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+      <lie ID="another" value="false">and that&apos;s the truth!</lie>
+    </universe>
+    <existance created="01.09.2002 19:40:58">
+      <universe ID="thisone" created="01.09.2002 19:40:58">
+        <cmd ID="first">lights on!</cmd>
+        <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+          <!--far too cold outta here-->
+          <lifeforms/>
+        </planet>
+        <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+          <lifeforms>
+            <fish ID="dolphin" value="flipper"/>
+            <!--you think dolphin isn't a fish? well... that's your problem!-->
+            <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+            <plant ID="tree" color="green" intelligence="0"/>
+            <plant ID="salad" color="green too" intelligence="-25"/>
+            <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+            <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+            <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+          </lifeforms>
+        </planet>
+      </universe>
+      <universe ID="parallel">
+        <!-- add any intelligent life forms here ;-) -->
+      </universe>
+      <universe ID="inverse">
+        <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+        <lie ID="another" value="false">and that&apos;s the truth!</lie>
+      </universe>
+      <existance created="01.09.2002 19:40:58">
+        <universe ID="thisone" created="01.09.2002 19:40:58">
+          <cmd ID="first">lights on!</cmd>
+          <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+            <!--far too cold outta here-->
+            <lifeforms/>
+          </planet>
+          <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+            <lifeforms>
+              <fish ID="dolphin" value="flipper"/>
+              <!--you think dolphin isn't a fish? well... that's your problem!-->
+              <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+              <plant ID="tree" color="green" intelligence="0"/>
+              <plant ID="salad" color="green too" intelligence="-25"/>
+              <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+              <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+              <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+            </lifeforms>
+          </planet>
+        </universe>
+        <universe ID="parallel">
+          <!-- add any intelligent life forms here ;-) -->
+        </universe>
+        <universe ID="inverse">
+          <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+          <lie ID="another" value="false">and that&apos;s the truth!</lie>
+        </universe>
+        <existance created="01.09.2002 19:40:58">
+          <universe ID="thisone" created="01.09.2002 19:40:58">
+            <cmd ID="first">lights on!</cmd>
+            <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+              <!--far too cold outta here-->
+              <lifeforms/>
+            </planet>
+            <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+              <lifeforms>
+                <fish ID="dolphin" value="flipper"/>
+                <!--you think dolphin isn't a fish? well... that's your problem!-->
+                <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                <plant ID="tree" color="green" intelligence="0"/>
+                <plant ID="salad" color="green too" intelligence="-25"/>
+                <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+              </lifeforms>
+            </planet>
+          </universe>
+          <universe ID="parallel">
+            <!-- add any intelligent life forms here ;-) -->
+          </universe>
+          <universe ID="inverse">
+            <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+            <lie ID="another" value="false">and that&apos;s the truth!</lie>
+          </universe>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <existance created="01.09.2002 19:40:58">
+              <universe ID="thisone" created="01.09.2002 19:40:58">
+                <cmd ID="first">lights on!</cmd>
+                <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                  <!--far too cold outta here-->
+                  <lifeforms/>
+                </planet>
+                <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                  <lifeforms>
+                    <fish ID="dolphin" value="flipper"/>
+                    <!--you think dolphin isn't a fish? well... that's your problem!-->
+                    <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                    <plant ID="tree" color="green" intelligence="0"/>
+                    <plant ID="salad" color="green too" intelligence="-25"/>
+                    <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                    <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                    <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                  </lifeforms>
+                </planet>
+              </universe>
+              <universe ID="parallel">
+                <!-- add any intelligent life forms here ;-) -->
+              </universe>
+              <universe ID="inverse">
+                <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+                <lie ID="another" value="false">and that&apos;s the truth!</lie>
+              </universe>
+            </existance>
+            <existance created="01.09.2002 19:40:58">
+              <universe ID="thisone" created="01.09.2002 19:40:58">
+                <cmd ID="first">lights on!</cmd>
+                <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                  <!--far too cold outta here-->
+                  <lifeforms/>
+                </planet>
+                <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                  <lifeforms>
+                    <fish ID="dolphin" value="flipper"/>
+                    <!--you think dolphin isn't a fish? well... that's your problem!-->
+                    <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                    <plant ID="tree" color="green" intelligence="0"/>
+                    <plant ID="salad" color="green too" intelligence="-25"/>
+                    <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                    <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                    <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                  </lifeforms>
+                </planet>
+              </universe>
+              <universe ID="parallel">
+                <!-- add any intelligent life forms here ;-) -->
+              </universe>
+              <universe ID="inverse">
+                <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+                <lie ID="another" value="false">and that&apos;s the truth!</lie>
+              </universe>
+            </existance>
+            <existance created="01.09.2002 19:40:58">
+              <universe ID="thisone" created="01.09.2002 19:40:58">
+                <cmd ID="first">lights on!</cmd>
+                <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                  <!--far too cold outta here-->
+                  <lifeforms/>
+                </planet>
+                <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                  <lifeforms>
+                    <fish ID="dolphin" value="flipper"/>
+                    <!--you think dolphin isn't a fish? well... that's your problem!-->
+                    <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                    <plant ID="tree" color="green" intelligence="0"/>
+                    <plant ID="salad" color="green too" intelligence="-25"/>
+                    <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                    <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                    <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                  </lifeforms>
+                </planet>
+              </universe>
+              <universe ID="parallel">
+                <!-- add any intelligent life forms here ;-) -->
+              </universe>
+              <universe ID="inverse">
+                <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+                <lie ID="another" value="false">and that&apos;s the truth!</lie>
+              </universe>
+            </existance>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+          <existance created="01.09.2002 19:40:58">
+            <universe ID="thisone" created="01.09.2002 19:40:58">
+              <cmd ID="first">lights on!</cmd>
+              <planet ID="pluto" sky="black" weather="bad" created="01.09.2002 19:40:58">
+                <!--far too cold outta here-->
+                <lifeforms/>
+              </planet>
+              <planet ID="earth" sky="always blue" weather="fine" created="01.09.2002 19:40:58">
+                <lifeforms>
+                  <fish ID="dolphin" value="flipper"/>
+                  <!--you think dolphin isn't a fish? well... that's your problem!-->
+                  <fish ID="giant jellyfish">better don&apos;t touch me</fish>
+                  <plant ID="tree" color="green" intelligence="0"/>
+                  <plant ID="salad" color="green too" intelligence="-25"/>
+                  <mammal ID="elephant" value="dumbo" color="grey" intelligence="5"/>
+                  <mammal ID="mouse" value="mickey" color="" intelligence="20"/>
+                  <mammal ID="cow" value="milka" color="lila" intelligence="-25000"/>
+                </lifeforms>
+              </planet>
+            </universe>
+            <universe ID="parallel">
+              <!-- add any intelligent life forms here ;-) -->
+            </universe>
+            <universe ID="inverse">
+              <lie ID="axiomatic" value="true">1 + 1 = 0</lie>
+              <lie ID="another" value="false">and that&apos;s the truth!</lie>
+            </universe>
+          </existance>
+        </existance>
+      </existance>
+    </existance>
+  </existance>
+</existance>
+
