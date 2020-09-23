@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<node>
+  <node ID="bla">
+    <node ID="another"/><!-- nestcount nicht erhoehen! -->
+    <node ID="subchildparent">
+      <node ID="null"/>
+    </node>
+    <node name="kfk">
+    </node>
+  </node>
+  <node/>
+</node>
